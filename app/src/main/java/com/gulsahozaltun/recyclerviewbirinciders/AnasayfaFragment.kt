@@ -30,7 +30,7 @@ class AnasayfaFragment : Fragment() {
         ulkeListesi= ArrayList()
         val u1=Ulkeler(1,"Türkiye","Ankara","Türk Lirası")
         val u2=Ulkeler(2,"Japonya","Tokyo","Japon Yeni")
-        val u3=Ulkeler(3,"Fransa","Parid","Euro")
+        val u3=Ulkeler(3,"Fransa","Paris","Euro")
         val u4=Ulkeler(4,"Rusya","Moskova","Ruble")
         ulkeListesi.add(u1)
         ulkeListesi.add(u2)
